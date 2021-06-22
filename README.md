@@ -1,4 +1,4 @@
-# Takin' A CISSP: Exam Prep, Brain Dump
+# Takin' A CISSP: Dumping CISSP related notes here.
 
 ### This repo is a brain dump of various notes I've taken and information I've reviewed while studying for the CISSP. As such it will include content from each of the domains. 
 
