@@ -12,12 +12,5 @@
 * [Software Development Security](https://github.com/n1cfury/takinacissp/blob/master/domain8.md)
 
 
-
-#### Each subfolder will contain the following:
-* Powerpoint Slides (saved as a PDF)
-* README.md describing the domain and including the "additional references" mentioned in the slides
-
-
-#### I'm using to organize notes for each of the CISSP domains based on different resources I've read in preparation for the exam. Will it include everything covered by that domain? I cant guarantee that but it might not be a bad starting point There are definitely much smarter people that have much better content, so why did I put this stuff up here?  
-
-#### To be honest, I wanted to dump my notes somewhere I could reference them later and will come back once I get one of my goals out of the way. While CISSP is an eventual goal, it's not my first one and not my long term focus at the moment. There are no exam questions on this repo as that would violate the rules. I'm including a few links, and real-world stories for each domain for context.
+### Covered for each domain
+##....So the scope of this repo has slightly changed since I passed the exam. I originally intended to reference this repo, but now that I've passed the exam I'm going to use this repo (and complimentary videos) as a brain dump of sorts of things I did along the way. I won't be including possible questions as that would violate the ethics policies; but, to be honest, even if that weren't a factor I don't remember any of them anyway. Just broader topics. I will however share a real-world story respective to each domain.
