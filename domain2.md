@@ -7,12 +7,12 @@ How to protect assets from cradle to grave. Classification is one of the first s
 ## Topics
 ### Classification
 
-| 'Public'      | 'Private'     |
+| `Public`      | `Private`     |
 |--------------:|--------------:|
 | Top Secret    | Confidential  |
 | Secret        | Private       |
 | Confidential  | Sensitive     |
-| Unclassified  | Public.       |
+| Unclassified  | Public        |
 
 
 ### States of data
