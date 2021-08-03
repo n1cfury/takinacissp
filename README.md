@@ -13,4 +13,4 @@
 
 
 ### Covered for each domain
-## ....So the scope of this repo has slightly changed since I passed the exam. I originally intended to reference this repo, but now that I've passed the exam I'm going to use this repo (and complimentary videos) as a brain dump of sorts of things I did along the way. I won't be including possible questions as that would violate the ethics policies; but, to be honest, even if that weren't a factor I don't remember any of them anyway. Just broader topics. I will however share a real-world story respective to each domain.
+....So the scope of this repo has slightly changed since I passed the exam. I originally intended to reference this repo, but now that I've passed the exam I'm going to use this repo (and complimentary videos) as a brain dump of sorts of things I did along the way. I won't be including possible questions as that would violate the ethics policies; but, to be honest, even if that weren't a factor I don't remember any of them anyway. Just broader topics. I will however share a real-world story respective to each domain.
