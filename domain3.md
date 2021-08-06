@@ -13,7 +13,8 @@ Biba
 **Security Principles**
 
 **Cryptography**
-
+-Asymmectric Encryption (stronger, but slower)
+-Symmetric Encryption (weaker but faster)
 
 **Malware**
 
@@ -21,11 +22,12 @@ Biba
 **CPU Architecture**
 
 
-**Rings**
-Ring 0: System
-Ring 1: Various OS ....
-Ring 2: Device Drivers
-Ring 3: Application/User space
+**Protection Rings**
+![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
+- Ring 0: System (privileged mode)
+- Ring 1: Various OS ....
+- Ring 2: Device Drivers
+- Ring 3: Application/User space
 
 
 ## Useful Links
