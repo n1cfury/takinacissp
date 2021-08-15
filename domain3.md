@@ -1,6 +1,10 @@
 ### Security Architecture and Engineering
 
 ## Elevator pitch: 
+Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography.
+
+
+**Remove later**
 The Security Architecture and Engineering domain focuses on ensuring systems are designed securely. Most of the cryptography related stuff for CISSP is covered in this domain such as types of Symmetric and Asymmetric encryption, Cryptographic Keys etc. Various Security models are described as well. There are many more, but Biba, Bell LaPadula, Clark Wilson are commonly used. In addition to security models and cryptography, CPU architecture, Ring Models, and types of Malware are discussed. This is probably the most technical of domains if not second to Domain 4, Communicaitons and Network Security
 
 ## Topics
