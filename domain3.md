@@ -1,7 +1,7 @@
 ### Security Architecture and Engineering
 
 ## Elevator pitch: 
-Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography.
+Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography. Not a lot on Malware, but does cover the basics.
 
 
 **Remove later**
@@ -10,18 +10,22 @@ The Security Architecture and Engineering domain focuses on ensuring systems are
 ## Topics
 
 **Security Models**
-Bell La Padula
-Clark Wilson
-Biba
+- Bell La Padula
+- Clark Wilson
+- Biba
 
 **Security Principles**
 
 **Cryptography**
--Asymmectric Encryption (stronger, but slower)
--Symmetric Encryption (weaker but faster)
+- Asymmectric Encryption (stronger, but slower), uses public and private keys
+- Symmetric Encryption (weaker but faster), uses shared secret keys
 
 **Malware**
-
+- Worms
+- Trojans
+- Rootkits
+- Logic Bombs
+- Pakcers
 
 **CPU Architecture**
 
