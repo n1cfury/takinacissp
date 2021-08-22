@@ -12,8 +12,6 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Biba: No read down, No write up (Integrity focused model).
 - Brewer & Nash (Chinese Wall): Avoids conflicts of interest, prohibits access to multile objects by a subject.
 
-**Security Principles**
-
 ## Cryptography
 - Asymmectric Encryption (stronger, but slower), uses public and private keys
 - Symmetric Encryption (weaker but faster), uses shared secret keys
@@ -25,13 +23,12 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Polymorphic Viruses: Changes signatures in an effort to avoid detection
 - Multipartie Viruses: Speads via multiple vectors
 
-
-** Protection Rings**
-![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
+## Protection Rings
 - Ring 0: System (privileged mode)
 - Ring 1: Various OS Components
 - Ring 2: Device Drivers
 - Ring 3: Application/User space (least trusted)
+![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
 
 ## Other Topics
 - Layering: Separates hardware and software fuctionality into modular tiers
@@ -47,20 +44,25 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Class C: Electircal. Treatable with Halon/CO2
 - Class D: Metals. Treatable with Dry Powder
 
+### Conditionals
+- XOR
+- XAND
+
 ### Sprinkler Systems
 - Wet Pipe
 - Dry Pipe
 - Deluge
 - Preaction
 
+### DES Summary: Uses 64 bit block sides with five modes
+** Block
+- ECB (Electronic Code Block): Weakest form of DES. No initialzation vector. Plaintext
+- CBC (Cipher Block Changing): blcok modes uses XORs of DES. Encryption errors will propogae
 
-### DES Summary
-
-- ECB (Electronic Code Block): 
-- CBC (Cipher Block Changing): 
+** Stream
 - CFB (Cipher Feedback): 
-- OFB (Output Feedback): 
-- CTR (Counter Mode): 
+- OFB (Output Feedback): Uses subkey before being XORed
+- CTR (Counter Mode): Uses a counter for feedback. No error propagation
 
 ## Useful Links
 
