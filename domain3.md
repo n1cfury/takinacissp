@@ -37,22 +37,6 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Multithreading: 
 - Multiprocessing: Allows multiple processes on multiple CPUs
 
-## Safety First
-### Clases of Fires
-- Class A: Conbustibles. Treatable with water/soda acid
-- Class B: Liquid. Treatable with Halon/CO2
-- Class C: Electircal. Treatable with Halon/CO2
-- Class D: Metals. Treatable with Dry Powder
-
-### Conditionals
-- XOR
-- XAND
-
-### Sprinkler Systems
-- Wet Pipe
-- Dry Pipe
-- Deluge
-- Preaction
 
 ### DES Summary: Uses 64 bit block sides with five modes
 ** Block
@@ -64,9 +48,28 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - OFB (Output Feedback): Uses subkey before being XORed
 - CTR (Counter Mode): Uses a counter for feedback. No error propagation
 
+Bitwise Operation (remember the symbols)
+- NOT 
+- AND
+- OR
+- XOR
+
+## Safety First
+### Clases of Fires
+- Class A: Conbustibles. Treatable with water/soda acid
+- Class B: Liquid. Treatable with Halon/CO2
+- Class C: Electircal. Treatable with Halon/CO2
+- Class D: Metals. Treatable with Dry Powder
+
+### Sprinkler Systems
+- Wet Pipe
+- Dry Pipe
+- Deluge
+- Preaction
 ## Useful Links
 
 [Back to the YouTube Video]()
 [Inside Cloud and Security - Domain 3](https://www.youtube.com/watch?v=iEBHjVcu_8s&list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD&index=14)
 [Serious Cryptography](https://nostarch.com/seriouscrypto)
 [Cryptography - Coursera](https://www.coursera.org/learn/crypto)
+[Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
