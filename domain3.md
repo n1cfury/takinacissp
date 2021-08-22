@@ -4,15 +4,13 @@
 Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography. Not a lot on Malware, but does cover the basics.
 
 
-**Remove later**
-The Security Architecture and Engineering domain focuses on ensuring systems are designed securely. Most of the cryptography related stuff for CISSP is covered in this domain such as types of Symmetric and Asymmetric encryption, Cryptographic Keys etc. Various Security models are described as well. There are many more, but Biba, Bell LaPadula, Clark Wilson are commonly used. In addition to security models and cryptography, CPU architecture, Ring Models, and types of Malware are discussed. This is probably the most technical of domains if not second to Domain 4, Communicaitons and Network Security
-
 ## Topics
 
 **Security Models**
-- Bell La Padula
-- Clark Wilson
-- Biba
+- Bell La Padula (DoD): No read up, No write down. An emphasis on (Confidentiality focused model).
+- Clark Wilson: Requires subjects to access objects via programs. Separation of duties.
+- Biba: No read down, No write up (Integrity focused model).
+- Brewer & Nash (Chinese Wall): Avoids conflicts of interest, prohibits access to multile objects by a subject.
 
 **Security Principles**
 
@@ -21,22 +19,52 @@ The Security Architecture and Engineering domain focuses on ensuring systems are
 - Symmetric Encryption (weaker but faster), uses shared secret keys
 
 **Malware**
-- Worms
-- Trojans
-- Rootkits
-- Logic Bombs
-- Pakcers
-
-**CPU Architecture**
+- Macro Virus: Focused on standard office related applications (Think MSFT Office apps with macros e.g. Word, Excel)
+- Boot Sector Viruses: Infects at the boot sector
+- Stealth Virus: Designed to hide from the OS and antiviruses
+- Polymorphic Viruses: Changes signatures in an effort to avoid detection
+- Multipartie Viruses: Speads via multiple vectors
 
 
 **Protection Rings**
 ![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
 - Ring 0: System (privileged mode)
-- Ring 1: Various OS ....
+- Ring 1: Various OS Components
 - Ring 2: Device Drivers
-- Ring 3: Application/User space
+- Ring 3: Application/User space (least trusted)
 
+** Other Topics
+- Layering: Separates hardware and software fuctionality into modular tiers
+- Abstraction: hides unnecessary details from users
+- Multitasking: Allows multiple tasks to run on a single CPU
+- Multithreading: 
+- Multiprocessing: Allows multiple processes on multiple CPUs
+
+** Safety First
+### Clases of Fires
+- Class A: Conbustibles. Treatable with water/soda acid
+- Class B: Liquid. Treatable with Halon/CO2
+- Class C: Electircal. Treatable with Halon/CO2
+- Class D: Metals. Treatable with Dry Powder
+
+### Sprinkler Systems
+- Wet Pipe
+- Dry Pipe
+- Deluge
+- Preaction
+
+
+DES Summary
+
+- ECB (Electronic Code Block): 
+- CBC (Cipher Block Changing): 
+- CFB (Cipher Feedback): 
+- OFB (Output Feedback): 
+- CTR (Counter Mode): 
+
+Classes of Fires:
+
+Sprinkler Systems:
 
 ## Useful Links
 
