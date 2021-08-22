@@ -4,9 +4,9 @@
 Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography. Not a lot on Malware, but does cover the basics.
 
 
-## Topics
+# Topics
 
-**Security Models**
+## Security Models
 - Bell La Padula (DoD): No read up, No write down. An emphasis on (Confidentiality focused model).
 - Clark Wilson: Requires subjects to access objects via programs. Separation of duties.
 - Biba: No read down, No write up (Integrity focused model).
@@ -14,11 +14,11 @@ Biggest and most technical of the eight domains. This one focuses on security at
 
 **Security Principles**
 
-**Cryptography**
+## Cryptography
 - Asymmectric Encryption (stronger, but slower), uses public and private keys
 - Symmetric Encryption (weaker but faster), uses shared secret keys
 
-**Malware**
+## Malware
 - Macro Virus: Focused on standard office related applications (Think MSFT Office apps with macros e.g. Word, Excel)
 - Boot Sector Viruses: Infects at the boot sector
 - Stealth Virus: Designed to hide from the OS and antiviruses
@@ -26,21 +26,21 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Multipartie Viruses: Speads via multiple vectors
 
 
-**Protection Rings**
+** Protection Rings**
 ![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
 - Ring 0: System (privileged mode)
 - Ring 1: Various OS Components
 - Ring 2: Device Drivers
 - Ring 3: Application/User space (least trusted)
 
-** Other Topics
+## Other Topics
 - Layering: Separates hardware and software fuctionality into modular tiers
 - Abstraction: hides unnecessary details from users
 - Multitasking: Allows multiple tasks to run on a single CPU
 - Multithreading: 
 - Multiprocessing: Allows multiple processes on multiple CPUs
 
-** Safety First
+## Safety First
 ### Clases of Fires
 - Class A: Conbustibles. Treatable with water/soda acid
 - Class B: Liquid. Treatable with Halon/CO2
@@ -54,17 +54,13 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Preaction
 
 
-DES Summary
+### DES Summary
 
 - ECB (Electronic Code Block): 
 - CBC (Cipher Block Changing): 
 - CFB (Cipher Feedback): 
 - OFB (Output Feedback): 
 - CTR (Counter Mode): 
-
-Classes of Fires:
-
-Sprinkler Systems:
 
 ## Useful Links
 
