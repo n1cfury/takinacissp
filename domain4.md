@@ -21,11 +21,17 @@ This domain foucuses on communications over the network as obviously stated. Les
 - Bridges
 - Routers
 
+## RFC 1918 (Private Address Spaces)
+
+Class A: 
+Class B: 
+Class C: 
+
 **Firewalls**
 
 ## Useful Links
 
 [Back to the YouTube Video]()
-[Inside Cloud and Security - Domain 3](https://www.youtube.com/watch?v=iEBHjVcu_8s&list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD&index=14)
-[Serious Cryptography](https://nostarch.com/seriouscrypto)
-[Cryptography - Coursera](https://www.coursera.org/learn/crypto)
+[Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
+[RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
+
