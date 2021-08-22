@@ -54,6 +54,9 @@ Bitwise Operation (remember the symbols)
 - OR
 - XOR
 
+![Logical Operations](https://www.researchgate.net/profile/Shaveta-Thakral/publication/307084597/figure/tbl2/AS:667033544978441@1536044598645/Function-Table-for-Logical-Operations.png)
+
+
 ## Safety First
 ### Clases of Fires
 - Class A: Conbustibles. Treatable with water/soda acid
