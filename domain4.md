@@ -1,4 +1,4 @@
-### Communications and Network Security
+# Communications and Network Security
 
 ## Elevator pitch
 This domain foucuses on communications over the network as obviously stated. Less obviously stated, this include a lot of content on the OSI layers and the protocols that exist within each of them. Are you going to have to know all 65536 TCP and UDP ports? No. Are you going to need to distinguish protocols or technology used in each layer? More than likely.
@@ -23,9 +23,9 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ## RFC 1918 (Private Address Spaces)
 
-Class A: 
-Class B: 
-Class C: 
+Class A: 10.0.0.0/8
+Class B: 172.16.0.0/16
+Class C: 192.168.0.0/24
 
 **Firewalls**
 
@@ -34,4 +34,5 @@ Class C:
 [Back to the YouTube Video]()
 [Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
 [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
+[Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
 
