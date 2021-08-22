@@ -1,7 +1,7 @@
 ### Security Architecture and Engineering
 
 ## Elevator pitch: 
-Biggest and most technical of the eight domains. This one focuses on security at the design level. Security Models, principles, and architecture. A lot of content related to applied cryptography. Not a lot on Malware, but does cover the basics.
+Biggest and most technical of the eight domains. This one focuses on security at the architectural level. Think big picture here to the point of designing the best ways to ensure a secure system...reducing risk from disasters as well.
 
 
 # Topics
