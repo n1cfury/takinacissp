@@ -71,7 +71,7 @@ Biggest and most technical of the eight domains. This one focuses on security at
 
 ## Useful Links
 
-- [Back to the YouTube Video]()
+- [Back to the YouTube Video](https://youtu.be/Y343SeisDxg)
 - [Inside Cloud and Security - Domain 3](https://www.youtube.com/watch?v=iEBHjVcu_8s&list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD&index=14)
 - [Serious Cryptography](https://nostarch.com/seriouscrypto)
 - [Cryptography - Coursera](https://www.coursera.org/learn/crypto)
