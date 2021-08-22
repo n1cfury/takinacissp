@@ -31,8 +31,8 @@ Class C: 192.168.0.0/24
 
 ## Useful Links
 
-[Back to the YouTube Video]()
-[Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
-[RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
-[Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
+- [Back to the YouTube Video]()
+- [Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
+- [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
+- [Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
 
