@@ -68,8 +68,8 @@ Bitwise Operation (remember the symbols)
 - Preaction
 ## Useful Links
 
-[Back to the YouTube Video]()
-[Inside Cloud and Security - Domain 3](https://www.youtube.com/watch?v=iEBHjVcu_8s&list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD&index=14)
-[Serious Cryptography](https://nostarch.com/seriouscrypto)
-[Cryptography - Coursera](https://www.coursera.org/learn/crypto)
-[Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+- [Back to the YouTube Video]()
+- [Inside Cloud and Security - Domain 3](https://www.youtube.com/watch?v=iEBHjVcu_8s&list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD&index=14)
+- [Serious Cryptography](https://nostarch.com/seriouscrypto)
+- [Cryptography - Coursera](https://www.coursera.org/learn/crypto)
+- [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
