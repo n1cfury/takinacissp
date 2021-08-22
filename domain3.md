@@ -48,14 +48,13 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - OFB (Output Feedback): Uses subkey before being XORed
 - CTR (Counter Mode): Uses a counter for feedback. No error propagation
 
-Bitwise Operation (remember the symbols)
+## Logical Operations (remember the symbols)
+![Logical Operations](https://www.researchgate.net/profile/Shaveta-Thakral/publication/307084597/figure/tbl2/AS:667033544978441@1536044598645/Function-Table-for-Logical-Operations.png)
+
 - NOT 
 - AND
 - OR
 - XOR
-
-![Logical Operations](https://www.researchgate.net/profile/Shaveta-Thakral/publication/307084597/figure/tbl2/AS:667033544978441@1536044598645/Function-Table-for-Logical-Operations.png)
-
 
 ## Safety First
 ### Clases of Fires
@@ -64,11 +63,12 @@ Bitwise Operation (remember the symbols)
 - Class C: Electircal. Treatable with Halon/CO2
 - Class D: Metals. Treatable with Dry Powder
 
-### Sprinkler Systems
-- Wet Pipe
-- Dry Pipe
-- Deluge
-- Preaction
+### Fire Suppresion Systems
+- Wet Pipe: Contains water that discharges immediately when triggered aka closed head system
+- Dry Pipe: Contains compressed air. Once triggered, air escapes, which opens a water valve, then discharges water
+- Deluge: Another form of dry pipe that uses larger pipes, thus a lot more water. Probably not good for environments containing electronics.
+- Preaction: A combination of dry/wet pipe. Water is released once sprinkler head activation triggers are melted by sufficient heat. Most appropriate for environments with computers and humans.
+
 ## Useful Links
 
 - [Back to the YouTube Video]()
