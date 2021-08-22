@@ -28,7 +28,7 @@ Biggest and most technical of the eight domains. This one focuses on security at
 - Ring 1: Various OS Components
 - Ring 2: Device Drivers
 - Ring 3: Application/User space (least trusted)
-![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
+- ![Protection Ring](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/600px-Priv_rings.svg.png)
 
 ## Other Topics
 - Layering: Separates hardware and software fuctionality into modular tiers
