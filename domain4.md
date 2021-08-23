@@ -7,27 +7,41 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 **OSI Layers**
 
-- Application
-- Presentation
-- Session
-- Transport
-- Network
-- Data Link
-- Physical
+- Application: This is where you interface with the application layer. An FTP program, your browser, etc.
+- Presentation: Presents data to the applcation and user in a comprehensible way. Think image formats
+- Session: Manages sessions for connections between applications such as Remote Procedure Calls (RPC).
+- Transport: Handles Packet Sequencing, flow control and error detection. Encapsulation is in Segments. Think TCP/UDP ports
+- Network: Describes routing from one LAN to another. Encapsulation is in Packets. Think IP addresses, Routers
+- Data Link: Divided into Media Access Control (MAC) and Logical Link Control (LLC). Encapsulation is in Frames. Think Switches.
+- Physical: Cabling, and cabling standards. Encapsulation is in Bits. Think Ethernet, Fiber Optic Cables.
 
 **Network Devices**
-- Hubs
-- Switches
-- Bridges
-- Routers
+- Hubs/Repeaters: Layer 1 device. Receives bits on one port, sends on another.
+- Switches: Layer 2 device. Provides traffic isolation associateing the MAC address of each connected device with its port on the switch.
+- Bridges: Layer 2 device. A bridge has two ports and two collision domains.
+- Routers: Layer 3 device. 
 
 ## RFC 1918 (Private Address Spaces)
 
-Class A: 10.0.0.0/8
-Class B: 172.16.0.0/16
-Class C: 192.168.0.0/24
+- Class A: 10.0.0.0 - 10.255.255.255 (10/8 prefix)
+- Class B: 172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
+- Class C: 192.168.0.0 - 192.168.255.255 (192.168/16 prefix)
 
-**Firewalls**
+## IP Address Classes
+
+## TCP Three Way handshake
+- SYN (source sends a SYN packet to the destination to establish connection)
+- SYN/ACK (The destination sends an SYN/ACK packet back to accept the connection)
+- ACK (source sends an ACK packet back to acknowlege establishment of the connection)
+
+-SYN Flood: An attack where the source (attacker) will not complete the threeway handshake
+
+
+## Firewalls
+- Packet Filtering: Oldest and most basic firewalls that check the source and destination IP/Port to determine whether to allow or deny passage.
+- Circuit Level Gateway: Works at the session layer, verify and keep track of active sessions using minimal resources. Not reliable for inspecting packets for Malware
+- Stateful Inspection: Inspects packets; however consume more resources, thus vulnerable to DDoS attacks
+- Application level gateways: aka Proxy Firewalls. Connections go through this firewall which perform stateful inspection of packets
 
 ## Useful Links
 
@@ -35,4 +49,6 @@ Class C: 192.168.0.0/24
 - [Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
 - [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
 - [Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
+- [Common Network Ports](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html)
+- [What are the basic Types of Firewalls](https://www.parallels.com/blogs/ras/types-of-firewalls/)
 
