@@ -21,8 +21,8 @@
 * [Official CISSP Practice Exams](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119787637/ref=pd_bxgy_img_1/139-5129302-1204118?pd_rd_w=cYc1a&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=HHX6KJJG55FWHSEAZ2V0&pd_rd_r=e875c0e8-b8dc-4a4f-ab32-64bb7922700f&pd_rd_wg=EDbxs&pd_rd_i=1119787637&psc=1)
 * [11th Hour CISSP, Third Edition](https://www.amazon.com/Eleventh-Hour-CISSP%C2%AE-Study-Guide/dp/0128112484/ref=pd_bxgy_img_2/139-5129302-1204118?pd_rd_w=3N3WV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=QZJTF3MSD8WFHF2GX4S1&pd_rd_r=81b68fe7-c19f-4343-ac71-69e1f46084d6&pd_rd_wg=PZuNE&pd_rd_i=0128112484&psc=1)
 * [CISSP Mobile App (App Store - Apple)](https://apps.apple.com/us/app/cissp-isc-official-app/id1555533017)
-* [Inside Cloud and Security - CISSP Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
-* [Certifiation Destination](https://www.youtube.com/playlist?list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW)
+* [Inside Cloud and Security - CISSP YouTube Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
+* [Certifiation Destination - CISSP YouTube Playlist](https://www.youtube.com/playlist?list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW)
 * [Reddit CISSP Subreddit](https://www.reddit.com/r/cissp/)
 
 - I bought the 8th Edition of the official books back in 2019, and passed the exam June 2021. Keep an eye out for publishing dates if you haven't already bought the books.
