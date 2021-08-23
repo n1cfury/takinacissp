@@ -1,7 +1,7 @@
 # Communications and Network Security
 
 ## Elevator pitch
-This domain foucuses on communications over the network as obviously stated. Less obviously stated, this include a lot of content on the OSI layers and the protocols that exist within each of them. Are you going to have to know all 65536 TCP and UDP ports? No. Are you going to need to distinguish protocols or technology used in each layer? More than likely.
+This domain foucuses on communications over the network as obviously stated. Less obviously stated, this domain dives into the how and what with these communications are done. Are you going to have to know all 65536 TCP and UDP ports? Probably not. Are you going to need to distinguish protocols or technology used in each layer? More than likely.
 
 ## Topics
 
