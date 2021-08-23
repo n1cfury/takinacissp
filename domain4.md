@@ -29,6 +29,10 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ## IP Address Classes
 
+- Class A: 0.0.0.0 - 127.255.255.255
+- Class B: 128.0.0.0 - 191.255.255.255
+- Class C: 192.0.0.0 - 223.255.255.255
+
 ## TCP Three Way handshake
 - SYN: Connection between a client and server are established
 - SYN/ACK: Server receives SYN packet and returns an Acknowledgement receipt to the Client
@@ -49,4 +53,5 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [Common Network Ports](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html)
 - [What are the basic Types of Firewalls](https://www.parallels.com/blogs/ras/types-of-firewalls/)
 - [Three Way Handshake](https://www.techopedia.com/definition/10339/three-way-handshake)
+- [IP Address subnets](https://www.paessler.com/it-explained/ip-address)
 
