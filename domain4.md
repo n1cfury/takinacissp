@@ -30,12 +30,9 @@ This domain foucuses on communications over the network as obviously stated. Les
 ## IP Address Classes
 
 ## TCP Three Way handshake
-- SYN (source sends a SYN packet to the destination to establish connection)
-- SYN/ACK (The destination sends an SYN/ACK packet back to accept the connection)
-- ACK (source sends an ACK packet back to acknowlege establishment of the connection)
-
--SYN Flood: An attack where the source (attacker) will not complete the threeway handshake
-
+- SYN: Connection between a client and server are established
+- SYN/ACK: Server receives SYN packet and returns an Acknowledgement receipt to the Client
+- ACK: Client receives the SYN/ACK from the server and responses with an ACK packet
 
 ## Firewalls
 - Packet Filtering: Oldest and most basic firewalls that check the source and destination IP/Port to determine whether to allow or deny passage.
@@ -51,4 +48,5 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
 - [Common Network Ports](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html)
 - [What are the basic Types of Firewalls](https://www.parallels.com/blogs/ras/types-of-firewalls/)
+- [Three Way Handshake](https://www.techopedia.com/definition/10339/three-way-handshake)
 
