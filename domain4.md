@@ -46,7 +46,7 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ## Useful Links
 
-- [Back to the YouTube Video]()
+- [Back to the YouTube Video](https://youtu.be/rctrZCEeYME)
 - [Inside Cloud and Security - Domain 4](https://www.youtube.com/watch?v=-b-BbFv7eI8)
 - [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
 - [Subnetting Basics](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
