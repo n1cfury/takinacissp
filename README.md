@@ -23,5 +23,6 @@
 * [CISSP Mobile App (App Store - Apple)](https://apps.apple.com/us/app/cissp-isc-official-app/id1555533017)
 * [Inside Cloud and Security - CISSP Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD)
 * [Certifiation Destination](https://www.youtube.com/playlist?list=PLZKdGEfEyJhKWyryIvx_jm1jn6ZMTi7gW)
+* [Reddit CISSP Subreddit](https://www.reddit.com/r/cissp/)
 
 - I bought the 8th Edition of the official books back in 2019, and passed the exam June 2021. Keep an eye out for publishing dates if you haven't already bought the books.
