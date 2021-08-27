@@ -5,12 +5,12 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ## Topics
 
-# Type 1 Authentication: Something you know
+## Type 1 Authentication: Something you know
 ### Passwords
-- Static passwords
-- Dynamic Passowrds
-- One-time passwords
-- Passphrases
+- Static passwords: 
+- Dynamic Passowrds: 
+- One-time passwords: 
+- Passphrases: 
 - Salts: A random value added to a password prior to hashing, which will encrypt differently.
 
 ### Password Attacks
@@ -27,11 +27,11 @@ This domain foucuses on communications over the network as obviously stated. Les
 ### Biometric Systems and Accuracy
 - False Acceptance Rate (FAR): unauthorized subjects are accepted as valid
 - False Rejection Rate (FRR): authorized subjects are rejected.
-- Crossover Error Rate (CER): the point where FAR and FRR are equal. This describes the overall accuracy of the sy
+- Crossover Error Rate (CER): the point where FAR and FRR are equal. This describes the overall accuracy of the system
 
 ## Access Control models
-- Rule-Based: 
-– RAC: Role Based Access Control. Defined rules or restrictions for accesing objects in a system 
+- Rule-Based: Much broader scenarios than individual subjects accessing objects e.g. a Firewall
+– RBAC: Role Based Access Control. Defined rules or restrictions for accesing objects in a system
 - DAC: Users have direct control over all programs and files
 - MAC: Opposite of DAC. Using a policy or Hardware/Software component to restrict access
 
@@ -44,18 +44,17 @@ This domain foucuses on communications over the network as obviously stated. Les
 - Principal:
 - Realm:
 - ticket: 
-- Credentials
-- KDG
-- TGS
-- TGT
-- C/S
+- Credentials:
+- KDG:
+- TGS: 
+- TGT:
+- C/S:
 
 ## Access Control Protocols
 - RADIUS
 - Diameter
 - TACACS/TACACS+
 - PAP/CHAP
-- 
 
 ## Useful Links
 
@@ -67,4 +66,5 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [Darnet Diaries Episode 33 - Rockyou](https://darknetdiaries.com/episode/33/)
 - [BloodHound](https://www.sans.org/blog/bloodhound-sniffing-out-path-through-windows-domains/)
 - [Inside Cloud and Security - Domain 5](https://youtu.be/o-jeH8OlKfs)
+- [Rule Based vs Role Based Access Control](https://blogs.iuvotech.com/rbac-rule-based-vs.-role-based-access-control)
 
