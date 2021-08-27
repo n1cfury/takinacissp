@@ -36,19 +36,25 @@ This domain foucuses on communications over the network as obviously stated. Les
 - MAC: Opposite of DAC. Using a policy or Hardware/Software component to restrict access
 
 ## Identity Managemnet
-- SAML
-- LDAP
-- Kerberos
+- Federated Identity Management: applies SSO at a wider scale ranging from cross-organiztional to Internet scale.
+- SAML: An XML based framework for exchanging security information
+- LDAP: A common open protocol for interfacing and querying directory service informaiton provided by network operating systems.
+- Kerberos: Authentication service used to support SSO using symmetric encryption providing mutual authentication of clients and servers
 
-## More Kerberos related things
-- Principal:
-- Realm:
-- ticket: 
-- Credentials:
-- KDG:
-- TGS: 
-- TGT:
-- C/S:
+## Kerberos Components
+- Principal: Client (user) or service
+- Realm: A logical Kerberos network
+- ticket: Data authenticating a principal's identity
+- Credentials: A ticket and service key
+- KDC: Key Distribution Center, authenticates principles
+- TGS: Ticket Granting Service
+- TGT: Ticket Granting Ticket
+- C/S: Client Server, regarding communications between the two
+
+## Attacking Kerberos
+- Kerberoasting
+- Pass the Hash
+- Golden Ticket
 
 ## Access Control Protocols
 - RADIUS
@@ -67,4 +73,5 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [BloodHound](https://www.sans.org/blog/bloodhound-sniffing-out-path-through-windows-domains/)
 - [Inside Cloud and Security - Domain 5](https://youtu.be/o-jeH8OlKfs)
 - [Rule Based vs Role Based Access Control](https://blogs.iuvotech.com/rbac-rule-based-vs.-role-based-access-control)
+- [Plan for Kerberos Authentication](https://docs.microsoft.com/en-us/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
 
