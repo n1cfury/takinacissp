@@ -70,7 +70,7 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ## Useful Links
 
-- [Back to the YouTube Video]()
+- [Back to the YouTube Video](https://youtu.be/IKl7ivVyW9I)
 - [Bypassing Biometric Controls](https://www.youtube.com/watch?v=ANllOmgJH9Y)
 - [Kerberos Deep Dive](https://www.youtube.com/watch?v=5N242XcKAsM)
 - [Kerberos steps explained better](https://www.vanimpe.eu/2017/05/26/kerberos-made-easy/)
