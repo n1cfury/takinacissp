@@ -51,11 +51,14 @@ This domain foucuses on communications over the network as obviously stated. Les
 - TGT: Ticket Granting Ticket
 - C/S: Client Server, regarding communications between the two
 
-## Attacking Kerberos
+
+![Kerberos Steps](https://phoenixnap.com/blog/wp-content/uploads/2020/09/how-kerber-works.png)
+
+## Attacking Kerberos (not deeply covered for the scope of the certifcation, but worth digging into)
 - Kerberoasting
 - Pass the Hash
 - Golden Ticket
-
+``
 ## Access Control Protocols
 - RADIUS
 - Diameter
@@ -67,6 +70,7 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [Back to the YouTube Video]()
 - [Bypassing Biometric Controls](https://www.youtube.com/watch?v=ANllOmgJH9Y)
 - [Kerberos Deep Dive](https://www.youtube.com/watch?v=5N242XcKAsM)
+- [Kerberos steps explained better](https://www.vanimpe.eu/2017/05/26/kerberos-made-easy/)
 - [Password Lists](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
 - [TryhackMe - Attacking Active Directory](https://tryhackme.com/room/attacktivedirectory)
 - [Darnet Diaries Episode 33 - Rockyou](https://darknetdiaries.com/episode/33/)
