@@ -54,16 +54,19 @@ This domain foucuses on communications over the network as obviously stated. Les
 
 ![Kerberos Steps](https://phoenixnap.com/blog/wp-content/uploads/2020/09/how-kerber-works.png)
 
-## Attacking Kerberos (not deeply covered for the scope of the certifcation, but worth digging into)
-- Kerberoasting
-- Pass the Hash
-- Golden Ticket
-``
+
+## AAA (Auentication, Authorization, Accounting)
+- It refers to five elements: Identification, authentication, authorization, auditing, and accounting.
+- Authentication: The process of verifyhing or testing the identity claimed by a subject is valid.
+- Authorization: The process ensuring the subject accessing the object has the necessary rights and privileges.
+- Accounting: The process of holding someone responsible for something. Accoutability is possible if a subject's identity and actions can be tracked and verified.
+
 ## Access Control Protocols
-- RADIUS
-- Diameter
-- TACACS/TACACS+
-- PAP/CHAP
+- RADIUS: Remote Authentication Dial In User Servcie. An AAA system comuunicating over UDP (ports 1812, 1813).
+- Diameter: A successor to RADIUS
+- TACACS/TACACS+: Terminal access controller access control system. A centralized access control system requiring users to sen4d and ID and static password for authentication. TACACS+ allows for two-factor strong authentication. Uses UDP (port 49). TACACS+ uses TCP (port 49)
+- PAP/CHAP: PAP (Password Authentication Protocol) is insecure as passwords are sent in clear text. CHAP (Challenge Handshake Authentication Protocol). Provides protection against playback attacks.
+
 
 ## Useful Links
 
