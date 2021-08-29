@@ -1,16 +1,16 @@
 # Identity and Access Management
 
 ## Elevator pitch
-This domain foucuses on communications over the network as obviously stated. Less obviously stated, this domain dives into the how and what with these communications are done. Are you going to have to know all 65536 TCP and UDP ports? Probably not. Are you going to need to distinguish protocols or technology used in each layer? More than likely.
+Who are you? How do I verify who you are, and once I do, what should I allow you to do, and how do I ensure 
 
 ## Topics
 
 ## Type 1 Authentication: Something you know
 ### Passwords
-- Static passwords: 
-- Dynamic Passowrds: 
-- One-time passwords: 
-- Passphrases: 
+- Static passwords: A password that doesnt' change over time.
+- Dynamic Passowrds: Passwords taht are changed on regular intervals e.g. LAPS
+- One-time passwords: A variant of dynamic passwords that's changed every time it is used.
+- Passphrases: a 'longer' password e.g. natural language sentences "I have a plan. Attack!"
 - Salts: A random value added to a password prior to hashing, which will encrypt differently.
 
 ### Password Attacks
@@ -20,8 +20,8 @@ This domain foucuses on communications over the network as obviously stated. Les
 - Rainbow Tables: a database that contains the precomputed hashed output for most or all passwords
 
 ## Type 2 Authentication: Something you have
-- Synchronous dynamic token
-- Asynchronoous dynamic token
+- Synchronous dynamic password token: Generates passwords at fixed time intervals. Entered along with a passphrase or password.
+- Asynchronoous dynamic password token: Generates onetime passwords after the user enters a PIN in the token device. 
 
 ## Type 3 Authentication: Something you are
 ### Biometric Systems and Accuracy
@@ -51,9 +51,7 @@ This domain foucuses on communications over the network as obviously stated. Les
 - TGT: Ticket Granting Ticket
 - C/S: Client Server, regarding communications between the two
 
-
 ![Kerberos Steps](https://phoenixnap.com/blog/wp-content/uploads/2020/09/how-kerber-works.png)
-
 
 ## AAA (Auentication, Authorization, Accounting)
 - It refers to five elements: Identification, authentication, authorization, auditing, and accounting.
@@ -81,4 +79,4 @@ This domain foucuses on communications over the network as obviously stated. Les
 - [Inside Cloud and Security - Domain 5](https://youtu.be/o-jeH8OlKfs)
 - [Rule Based vs Role Based Access Control](https://blogs.iuvotech.com/rbac-rule-based-vs.-role-based-access-control)
 - [Plan for Kerberos Authentication](https://docs.microsoft.com/en-us/sharepoint/security-for-sharepoint-server/kerberos-authentication-planning)
-
+- [Microsoft LAPS](https://www.microsoft.com/en-us/download/details.aspx?id=46899)
