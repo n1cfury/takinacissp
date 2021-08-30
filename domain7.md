@@ -1,7 +1,9 @@
 # Security Operations
 
 ## Elevator Pitch
-This is where the rubber meets the road and the practice of protecting an organization, and responding to 
+This is where the rubber meets the road and the practice of protecting an organization and responding to threats comes into play
+
+
 
 ## Incident Response
 - Preparation
