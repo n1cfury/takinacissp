@@ -42,7 +42,7 @@ So, how do you know you're protecting your organization? What do you do to measu
 
 ## Useful Links
 
-- [Back to the Video]()
+- [Back to the Video](https://youtu.be/HIqjQrLQ2Ew)
 - [Sample Penetration Test Reports](https://github.com/juliocesarfort/public-pentesting-reports)
 - [Inside Cloud and Security - Domain 6](https://www.youtube.com/watch?v=mBtoq_ruGtI)
 - [Microsoft STRIDE Chart](https://www.microsoft.com/security/blog/2007/09/11/stride-chart/)
