@@ -50,3 +50,5 @@ So, how do you know you're protecting your organization? What do you do to measu
 - [Windows Privilege Escalation](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
 - [MITRE Attack Matrix](https://attack.mitre.org/)
 - [Penetraiton Testing stages](https://securetriad.io/penetration-testing/)
+- [Hack The Box](https://app.hackthebox.eu/home)
+- [TryHackMe](https://tryhackme.com)
