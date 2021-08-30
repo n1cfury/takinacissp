@@ -9,12 +9,12 @@ So, how do you know you're protecting your organization? What do you do to measu
 - [NIST 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final): Technical Guide to Information Security Testing and Assessment
 
 ## Software Testing Levels
-- Unit Testing
-- Installation Testing
-- Integration testing
-- Regression Testing
-- Acceptance Testing
-- Fuzzing
+- Unit Testing: Low-level test of software components, such as functions, procedures, or objects.
+- Installation Testing: Testing software as its install and first operated
+- Integration testing: Testing multiple software components as they're combined intoa working system.
+- Regression Testing: Testing software after updates, modifications, or patches
+- Acceptance Testing: Testing to ensure the software meets the customers operational requirements. Referred to as user Acceptance testing, when done by the customer.
+- Fuzzing: Used in black-box testing. Sending ramdom malformed data as inputs into programs to determine if they will crash. One of the first steps of discovering Buffer Overflow
 
 ## Penetration Testing 
 - Planning
