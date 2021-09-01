@@ -46,9 +46,9 @@ This is where the rubber meets the road and the practice of protecting an organi
 - RAID 1+0/10: Multi-raid
 
 ## Business Continuity Plan/Disaster Recovery Plan
-- Hot Site
-- Warm Site
-- Cold Site
+- Hot Site: A backup facility maintained in constant working order. Allows for the fastest continuation during a disaster.
+- Warm Site: The middle ground backup facility. Equipment may be available, but may not include current copies of data.
+- Cold Site: Standby facility with appropriate electrical and support systems. Slowest continuation during a disaster.
 
 ### Disaster Recovery Process
  - Respond
@@ -58,14 +58,14 @@ This is where the rubber meets the road and the practice of protecting an organi
  - Reconstitution
 
 ## Backups
-- Full Backups
-- Incremental Backups
-- Differential Backups
+- Full: A complete copy of data containedon the protected device on the backup media. This also refers to the process of making a complete copy of the data.
+- Incremental: A backup that storing only those files that have been modifed since the time of the most recent full or incremental backup. 
+- Differential: A backup that stores all files that have been modified since the time of the most recent full backup
 
 ## Failure and Recovery Metrics
-- MTTR:
-- RTO:
-- RPO:
+- MTTF (Mean Time To Failure): Length of time or number of uses a hardware or media component can endure before its reliability is questionable.
+- RTO (Recovery Time Objective): The maximum time a business can be inoperable without causing ireparable harm.
+- RPO (Recovery Point Objective): The maximum amount of data loss without causing irepparable harm.
 
 ## Useful Links
 - [Back to the YouTube Video]()
@@ -75,7 +75,7 @@ This is where the rubber meets the road and the practice of protecting an organi
 - [Indicators of Compromise](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)
 - [NIST SP800-34 - Contingency Planning Guide for Federal Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
 - [Blue Team Labs](https://blueteamlabs.online/)
+- [Differential vs Incremental Backups](https://www.acronis.com/en-us/articles/incremental-differential-backups/#:~:text=A%20differential%20backup%20backs%20up,since%20the%20last%20full%20back.&text=Incremental%20backups%20also%20back%20up,a%20full%20or%20incremental%20backup.)
+- [Recovery Point and Recovery Time Objective](https://dbvisit.com/understanding-rto-and-rpo-disaster-recovery)
 - [Incident Response Steps](https://cybersecurity.att.com/blogs/security-essentials/incident-response-steps-comparison-guide)
 - [Blue Team Blog - IDS/IPS tools](https://blueteamblog.com/ips-vs-ids-an-overview)
-
-
