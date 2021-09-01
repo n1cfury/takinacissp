@@ -1,4 +1,4 @@
-### Security Architecture and Engineering
+# <p align=center>Domain 3 - Security Architecture and Engineering</p>
 
 ## Elevator pitch: 
 Biggest and most technical of the eight domains. This one focuses on security at the architectural level. Think big picture here to the point of designing the best ways to ensure a secure system...reducing risk from disasters as well.
