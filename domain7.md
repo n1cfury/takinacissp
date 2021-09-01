@@ -1,4 +1,4 @@
-# Security Operations
+# <p align=center>Domain 7 - Security Operations</p>
 
 ## Elevator Pitch
 This is where the rubber meets the road and the practice of protecting an organization and responding to threats comes into play. A lot of operational concepts covered such as what you're protecting and how in addition to responding to events and incidents. Most of the tools used by a defensive centric (Blue Team) role will be covered in this domain.
@@ -9,40 +9,41 @@ This is where the rubber meets the road and the practice of protecting an organi
 - Job Rotation: Rotation of responsibilities to help mitigate the risks of any one individual having too many privileges. 
 - Nondisclosure agreement (NDA): A work related contractural agreement ensuring an individual maintains confidentiality prior to access of sensitve information.
 
-
-## Incident Response steps
-
+## Monitoring Actiivty
 - Event: Any observable activity in your IT infrastructure
 - Alert: A notification of an event
 - Incident: An event that negatively affects the IT Infrastructure
 
-- Preparation: Steps taken prior to an incident occurs
-- Detection (Identifcation)
-- Response (Containment)
-- Mitigation (Eradication)
-- Reporting
-- Recovery
-- Lessons Learned
+## Incident Response steps
+- Preparation: Determining what to do or know before an incident.
+- Detection (Identifcation): You've identifed an Alert for an event, and confirmed it is an incident.
+- Response (Containment): Now that you're responding, you need to stop the bleeding
+- Mitigation (Eradication): You've contained the damage from the incident, now to eliminate the threat.
+- Reporting: You've eliminated the threat, what were your findings?
+- Recovery: You've provided a report after responding. Now to get back to the state prior to the incident. 
+- Lessons Learned: Situation is back to normal, what did you learn? What could you have done better?
 
 ![Incident Response Steps](https://cdn-cybersecurity.att.com/blog-content/incident-response-steps-comparison-guide-framework-side-by-side.jpg)
 
-## Indicators of Compromise
-- 
-
+## Indicators of Compromise (just a few...some of these may require further investigation)
+- Suspicious network traffic
+- Unusual applications
+- Unusual behavior from accounts (privileged or otherwise)
+- Suspicious authentication
 
 ## Asset Management
-- Vulnerability Management
-- Baselining
+- Vulnerability Management: Reducing the attack surface
+- Baselining: Gold images come to mind.
 
 ## RAID
-- RAID 0:
-- RAID 1:
-- RAID 2:
-- RAID 3:
-- RAID 4:
-- RAID 5:
-- RAID 6:
-- RAID 1+0/10:
+- RAID 0: Striped set
+- RAID 1: Mirroed set
+- RAID 2: Hamming code. Cost prohibitive, requiring 14-39 disks
+- RAID 3: Byte level striping with dedicated parity
+- RAID 4: Block level striping with dedicated parity
+- RAID 5: Block-level striping with distributed parity
+- RAID 6: Block-level striping with double-distributed parity
+- RAID 1+0/10: Multi-raid
 
 ## Business Continuity Plan/Disaster Recovery Plan
 - Hot Site
