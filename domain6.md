@@ -1,4 +1,4 @@
-# Security Assessent and Testing
+# <p align=center>Domain 6 - Security Assessent and Testing</p>
 
 ## Elevator Pitch
 So, how do you know you're protecting your organization? What do you do to measure your success? This domain describes various methods, techniques, and the process of assessing security 
