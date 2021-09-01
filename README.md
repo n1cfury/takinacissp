@@ -2,6 +2,8 @@
 
 # Takin' A CISSP: Dumping CISSP related notes here.
 
+- Disclaimer: There are no spoilers here. No questions revealed. Any *questions* discussed are from the practice exams. This repo is just here to save you a few google searches, and a few hundered dollars from either retakes, or overpriced courses. 
+
 ### This repo is a brain dump of various notes I've taken and information I've reviewed while studying for the CISSP. As such it will include content from each of the domains. 
 
 * [Security & Risk Management](https://github.com/n1cfury/takinacissp/blob/master/domain1.md)
