@@ -21,14 +21,12 @@ There's no such thing as zero risk, just minimal. This domain describes ways to 
 - Corrective: Corrects or remediates the bad thing.
 - Compensating: Compensates for weaknesses in other controls
 
-## Least Privilege: Giving the minimal access needed for a subject to use an object
-
 ## Responsibiliites: Owner, Custodian, and User
 - Owner: Makes decisions and overall responsible.
 - Custodian: Provision and maintains.
 - User: Consumer of the object(s).
 
 ## Useful links
-[Back to the YouTube Video](https://youtu.be/bWQffGAfUBI)
-
-[Inside Cloud and Security - Domain 1](https://www.youtube.com/watch?v=iArcmcGPp7k)
+- [Back to the YouTube Video](https://youtu.be/bWQffGAfUBI)
+- [Inside Cloud and Security - Domain 1](https://www.youtube.com/watch?v=iArcmcGPp7k)
+- [Security Controls](https://www.f5.com/labs/articles/education/what-are-security-controls#:~:text=Corrective%20controls%20include%20any%20measures,process%2C%20or%20rebooting%20a%20system.)
