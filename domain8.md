@@ -44,6 +44,6 @@ Last but not least of the domains, but software is everywhere and nearly everyth
 - Optimizing: Most mature state. Making incremental changes based on the metrics you have gathered.
 
 ## Useful Links
-[Back to the YouTube Video]()
-[Inside Cloud and Security - Domain 8](https://www.youtube.com/watch?v=vKXVEff0RGM)
-[Software Capability Maturity Model](http://www.selectbs.com/process-maturity/what-is-the-capability-maturity-model)
+- [Back to the YouTube Video]()
+- [Inside Cloud and Security - Domain 8](https://www.youtube.com/watch?v=vKXVEff0RGM)
+- [Software Capability Maturity Model](http://www.selectbs.com/process-maturity/what-is-the-capability-maturity-model)
