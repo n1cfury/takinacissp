@@ -1,3 +1,5 @@
+![Logo](https://github.com/n1cfury/takinacissp/blob/master/branding.png?raw=true)
+
 # <p align=center>Domain 3 - Security Architecture and Engineering</p>
 
 ## Elevator pitch: 
