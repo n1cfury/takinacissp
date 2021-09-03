@@ -74,6 +74,7 @@ This is where the rubber meets the road and the practice of protecting an organi
 - [Inside Cloud and Security - Domain 7](https://www.youtube.com/watch?v=Vle4g2apsvc)
 - [Events, Alerts, and Incidents](https://danielmiessler.com/study/event-alert-incident/)
 - [Incident Response Book](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/ref=asc_df_0071798684/?tag=hyprod-20&linkCode=df0&hvadid=312091457223&hvpos=&hvnetw=g&hvrand=7510202046434899008&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031327&hvtargid=pla-464897074962&psc=1&tag=&ref=&adgrpid=62820903995&hvpone=&hvptwo=&hvadid=312091457223&hvpos=&hvnetw=g&hvrand=7510202046434899008&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031327&hvtargid=pla-464897074962)
+- [RAID Levels](https://www.prepressure.com/library/technology/raid)
 - [Indicators of Compromise](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)
 - [NIST SP800-34 - Contingency Planning Guide for Federal Systems](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)
 - [Blue Team Labs](https://blueteamlabs.online/)
