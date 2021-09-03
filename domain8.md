@@ -25,12 +25,14 @@ Last but not least of the domains, but software is everywhere and nearly everyth
 - Spiral
 - SDLC
 
+![Agile and Waterfall](https://hackr.io/blog/agile-vs-waterfall/thumbnail/large)
+
 ## Databases (and database keys)
 - Relational Databasese
 - Foreign Keys
 
 ## Software Vulnerabilites
-- Buffer Overflows:
+- Buffer Overflows: 
 - TOC/TOU:
 - Cross-Site Scripting/Request forgery:
 - Privilege Escalation:
@@ -47,3 +49,7 @@ Last but not least of the domains, but software is everywhere and nearly everyth
 - [Back to the YouTube Video]()
 - [Inside Cloud and Security - Domain 8](https://www.youtube.com/watch?v=vKXVEff0RGM)
 - [Software Capability Maturity Model](http://www.selectbs.com/process-maturity/what-is-the-capability-maturity-model)
+- [Agile vs Waterfall](https://hackr.io/blog/agile-vs-waterfall)
+- [Buffer Overflow Walkthrough](https://github.com/npapernot/buffer-overflow-attack)
+- [Database Keys](https://www.guru99.com/dbms-keys.html)
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
