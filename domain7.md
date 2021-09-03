@@ -34,8 +34,8 @@ This is where the rubber meets the road and the practice of protecting an organi
 - Suspicious authentication
 
 ## Asset Management
-- Vulnerability Management: Reducing the attack surface
-- Baselining: Gold images come to mind.
+- Vulnerability Management: Reducing the attack surface, by identifying and remediating vulnerabilites.
+- Baselining: Gold images come to mind. Don't worry, STIGs are not in scope.
 
 ## RAID
 - RAID 0: Striped set
