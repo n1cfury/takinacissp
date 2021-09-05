@@ -82,3 +82,4 @@ This is where the rubber meets the road and the practice of protecting an organi
 - [Recovery Point and Recovery Time Objective](https://dbvisit.com/understanding-rto-and-rpo-disaster-recovery)
 - [Incident Response Steps](https://cybersecurity.att.com/blogs/security-essentials/incident-response-steps-comparison-guide)
 - [Blue Team Blog - IDS/IPS tools](https://blueteamblog.com/ips-vs-ids-an-overview)
+- [Operator Handbook](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5)
