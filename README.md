@@ -2,7 +2,7 @@
 
 - Disclaimer: There are no spoilers here. No questions revealed. Any *questions* discussed are from the practice exams. This repo is just here to save you a few google searches, and a few hundered dollars from either retakes, or overpriced courses. 
 
-### This repo is a brain dump of various notes I've taken and information I've reviewed while studying for the CISSP. As such it will include content from each of the domains. 
+### This repo is a brain dump of various notes I've taken and information I've reviewed while studying for the CISSP. As such it will include content from each of the domains. I also include links to videos I have credated for each domain.
 
 * [Security & Risk Management](https://github.com/n1cfury/takinacissp/blob/master/domain1.md)
 * [Asset Security](https://github.com/n1cfury/takinacissp/blob/master/domain2.md)
